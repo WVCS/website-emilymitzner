@@ -1,3 +1,35 @@
 body {
+nav {
+  list-style-type: none;
+  background-color: #79BEEE;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: #214E34;
+  text-decoration-thickness: 25%;
+  
+}
 
+li {
+  display: inline;
+  padding: 35px;
+}
+
+li:hover {
+  color: #0C2A19;;
+}
+
+a{
+  text-decoration: none;
+  color: #214E34;
+}
+
+a:hover{
+  color: #0C2A19;
+  
+}
 }
