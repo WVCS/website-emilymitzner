@@ -1,4 +1,4 @@
-body {
+
 nav {
   list-style-type: none;
   background-color: #79BEEE;
@@ -36,5 +36,4 @@ a:hover{
 
   img{
     width: 150px;
-}
 }
